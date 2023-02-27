@@ -1,0 +1,11 @@
+Package: com.noisyflake.velvet2
+Version: 2.0.1
+Section: Tweaks
+Maintainer: hungBlood
+Architecture: iphoneos-arm
+Filename: ./debs/io.hung-Blood.velvet2_2.0.1_iphoneos-arm.deb
+Size: 114
+MD5sum: 52d1cbb9cf1ee76ac4287771ba06b547
+Description: Tùy chỉnh hình ảnh thông báo dễ dàng!
+Name: Velvet 2 OS15
+Author: NoisyFlake <support@noisyflake.com>
